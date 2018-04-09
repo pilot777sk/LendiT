@@ -1,0 +1,2 @@
+# LendiT
+local rental service
